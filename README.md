@@ -1,16 +1,5 @@
-# carmaintenanceapp
+Car Maintenance App
 
-A new Flutter project.
+This application is designed for car owners seeking an all-in-one solution to manage their vehicles. It features a Car Maintenance Log, a Component Price Tracker, and a Workshop Locator.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app is primarily built with Dart, while Python is integrated for web scraping functions using BeautifulSoup4 to gather data on car component prices from various websites. The Android application and the Python web scraper are connected via a Flask server.
